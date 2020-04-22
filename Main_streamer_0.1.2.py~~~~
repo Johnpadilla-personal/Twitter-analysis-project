@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 
 
-# # # # TWITTER CLIENT # # # #
+#  TWITTER CLIENT  #
 class TwitterClient():
     def __init__(self, twitter_user=None):
         self.auth = TwitterAuthenticator().authenticate_twitter_app()
@@ -45,7 +45,7 @@ class TwitterClient():
         return home_timeline_tweets
 
 
-# # # # TWITTER AUTHENTICATER # # # #
+# TWITTER AUTHENTICATER #
 class TwitterAuthenticator():
 
     def authenticate_twitter_app(self):
@@ -53,7 +53,7 @@ class TwitterAuthenticator():
         auth.set_access_token(Keys.A_T, Keys.A_S_T)
         return auth
 
-# # # # TWITTER STREAMER # # # #
+# TWITTER STREAMER #
 class TwitterStreamer():
     """
     Class for streaming and processing live tweets.
@@ -71,7 +71,7 @@ class TwitterStreamer():
           
         stream.filter(track = hash_tag_list)
 
-# # # # TWITTER STREAM LISTENER # # # #
+# TWITTER STREAM LISTENER #
 class TwitterListener(StreamListener):
     """
     This is a basic listener that just prints received tweets to stdout.
