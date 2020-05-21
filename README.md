@@ -1,7 +1,7 @@
 # Twitter-analysis-project
 
-Main_streamer results in dataframe with various catagories
+Data scraper pulls data from specified twitter user and loads it into dataframe.
 
-Main_streamer calls a py file that carries authentication keys some of which are private.  
+You will need to generate your own authenication keys: https://stackoverflow.com/questions/1808855/getting-new-twitter-api-consumer-and-secret-keys
 
-Make your own twitter app and generate your own keys to use the script.  
+
