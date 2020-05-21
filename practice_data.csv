@@ -1,241 +1,237 @@
-,tweets,id,length,date,source,likes,retweets,sentiment
-0,"""It was as if a tsunami overwhelmed us, especially the oldest people.""
+,tweets,id,length,date,source,likes,retweets,sentiment,pnn
+0,"The projection — a guess, the CEO said, not a target — marks a major pivot by the world's biggest social media comp… https://t.co/4NT0kUGymG",1263527483539939329,140,2020-05-21 17:50:01,SocialFlow,0,0,1,Positive
+1,Some Salvadorans praise President Nayib Bukele for taking decisive action that may have saved his small Central Ame… https://t.co/9DBQJEePiT,1263526167992205313,140,2020-05-21 17:44:48,SocialFlow,62,22,-1,Negative
+2,"Colorful bleaching has been observed since 2010 in coral reefs across the globe, but the mechanism and reasoning be… https://t.co/lVE6Xna1mK",1263519947822637063,140,2020-05-21 17:20:05,SocialFlow,271,97,1,Positive
+3,"Washington, DC, Mayor Muriel Bowser says the District can begin stage one of its reopening on Friday, May 29, if th… https://t.co/pItzea89N6",1263517436311146496,140,2020-05-21 17:10:06,SocialFlow,93,26,0,Nuetral
+4,.@FareedZakaria investigates China and Covid-19. Discover what he learned in the new CNN Special Report – China’s D… https://t.co/24GJW9PBmk,1263514975924035590,140,2020-05-21 17:00:19,SocialFlow,190,72,1,Positive
+5,"The Senate has confirmed GOP Rep. John Ratcliffe as President Trump's top intelligence official, tossing him into a… https://t.co/uvHZpA65HZ",1263512401363820544,140,2020-05-21 16:50:06,SocialFlow,149,40,1,Positive
+6,Almost all of over a dozen entities that forecast the seasonal tropical outlook call for an above-average number of… https://t.co/SID5YN4KtN,1263509897368539136,140,2020-05-21 16:40:09,SocialFlow,218,84,-1,Negative
+7,"Wilson Roosevelt Jerman, a former White House butler who worked under 11 US Presidents, has died after contracting… https://t.co/gX6cH76GKF",1263509753109643266,139,2020-05-21 16:39:34,SocialFlow,729,204,0,Nuetral
+8,Actress Lori Loughlin and fashion designer Mossimo Giannulli have agreed to plead guilty to conspiracy charges in c… https://t.co/Vx499mEf90,1263507375417430017,140,2020-05-21 16:30:07,SocialFlow,198,49,-1,Negative
+9,"Another 2.4 million Americans filed for first-time benefits last week, bringing the total to 38.6 million since mid… https://t.co/xs1kjEg2lT",1263504865591992320,140,2020-05-21 16:20:09,SocialFlow,324,129,1,Positive
+10,A President who ought to be unifying the country seems to be using his office to indulge his own need for attention… https://t.co/h3DDdV0g3W,1263502328700850176,140,2020-05-21 16:10:04,SocialFlow,668,199,1,Positive
+11,New Zealand's Jacinda Ardern has floated the idea of a four-day working week to help the economy in the wake of the… https://t.co/ybmrEipcuK,1263499823103303681,140,2020-05-21 16:00:07,SocialFlow,263,46,1,Positive
+12,"If the US began social distancing a week earlier than it did, it could've prevented at least 36,000 coronavirus dea… https://t.co/UDlgK8Dz4u",1263497837523992578,140,2020-05-21 15:52:13,SocialFlow,1018,435,-1,Negative
+13,"So far, President Trump has resisted covering his face in public or being seen wearing a mask, despite the federal… https://t.co/SKq6S72qEG",1263494964660576256,139,2020-05-21 15:40:48,SocialFlow,826,188,1,Positive
+14,The Trump administration is preparing to withdraw from a major arms treaty designed to reduce the risk of military… https://t.co/M4WDMAfOUw,1263492257686138888,139,2020-05-21 15:30:03,SocialFlow,282,108,-1,Negative
+15,China's rubberstamp parliament has announced that a new national security law in Hong Kong will be on the agenda at… https://t.co/DjHrFXC59n,1263489733411442693,140,2020-05-21 15:20:01,SocialFlow,365,254,1,Positive
+16,Green snow created by blooming algae in the Antarctic Peninsula is likely to spread as temperatures increase as a r… https://t.co/8Z6hFVA0Fm,1263487232339476480,140,2020-05-21 15:10:05,SocialFlow,248,99,-1,Negative
+17,California has quickly repaid a nearly $1.4 billion loan from the federal government used to fund a massive increas… https://t.co/er0IkaKj1X,1263484724187672579,140,2020-05-21 15:00:07,SocialFlow,354,99,1,Positive
+18,"""Trump's 'it will go away' statements about Covid-19 have baffled people who say he's downplaying the threat of the… https://t.co/B6EmqVgCYd",1263482208700059657,140,2020-05-21 14:50:07,SocialFlow,209,80,0,Nuetral
+19,"RT @CNNnewsroom: President Trump is threatening to withhold federal funding from Nevada over mail-in voting.
 
-A whole generation was overwhelmed by Covid… https://t.co/7FVwBb1KJE",1263379934560628736,140,2020-05-21 08:03:43,SocialFlow,30,10,1
-1,"Thousands of people have been left homeless in the wake of Cyclone Amphan, which slammed into India's eastern coast… https://t.co/vdjDcTs9Bj",1263376492660219905,140,2020-05-21 07:50:02,SocialFlow,105,49,0
-2,"At least 5,000,038 cases of Covid-19 have now been recorded globally, according to data compiled by Johns Hopkins U… https://t.co/wHggId5GZi",1263370217209593856,140,2020-05-21 07:25:06,SocialFlow,230,92,-1
-3,The receptors that let the coronavirus into our cells appear to be less common in children's noses -- which may be… https://t.co/Rjb4CTWAKw,1263366445167194112,139,2020-05-21 07:10:07,SocialFlow,275,139,-1
-4,A President who ought to be unifying the country seems to be using his office to indulge his own need for attention… https://t.co/Nfn174QFnD,1263362669500866562,140,2020-05-21 06:55:07,SocialFlow,597,151,1
-5,Former Vice President Joe Biden and the Democratic National Committee came close to matching the fundraising perfor… https://t.co/fDcDzQtqwD,1263358888654618624,140,2020-05-21 06:40:05,SocialFlow,139,56,0
-6,A suspect is in custody after three people were shot Wednesday night at the Westgate Entertainment District in Glen… https://t.co/6WpHUBCvIj,1263357920131125248,140,2020-05-21 06:36:14,SocialFlow,233,103,0
-7,TikTok's hiring of Disney veteran Kevin Mayer may not be enough to win over the growing number of US lawmakers who… https://t.co/ZpU156YLfd,1263355102611550208,139,2020-05-21 06:25:03,SocialFlow,239,65,1
-8,"""My dream is to meet every kid in the entire world and give them art."" This girl has sent over 1,500 children in ho… https://t.co/rs12xrPoVW",1263351365792825344,140,2020-05-21 06:10:12,SocialFlow,1749,343,0
-9,Federal regulators have warned for more than 20 years of inadequate spillways at a Michigan dam that was breached T… https://t.co/CyTueYQGvo,1263349042576318464,140,2020-05-21 06:00:58,SocialFlow,233,93,1
-10,"The USS Theodore Roosevelt has returned to sea, after being docked in Guam for weeks due to a coronavirus outbreak… https://t.co/P33sI92Szq",1263346292509609984,139,2020-05-21 05:50:02,SocialFlow,216,57,-1
-11,"The United States recorded 23,285 new cases of coronavirus and 1,518 related deaths on Wednesday, according to John… https://t.co/6ocdnN1EXd",1263342539949715456,140,2020-05-21 05:35:07,SocialFlow,386,204,1
-12,"If the United States had implemented social distancing policies just a week sooner, it could have prevented more th… https://t.co/gcoNaSHxw5",1263338740149338114,140,2020-05-21 05:20:02,SocialFlow,2572,953,1
-13,"North Carolina Gov. Roy Cooper said dine-in eating, hair and nail salons, barbershops, churches and pools will be o… https://t.co/5LpchA12SZ",1263335407401476096,140,2020-05-21 05:06:47,SocialFlow,220,72,0
-14,Donald Trump in April 2009 said the Obama administration was handling the ​early days of the 2009-2010 H1N1 outbrea… https://t.co/k9MqrrIX7G,1263333101842956288,140,2020-05-21 04:57:37,SocialFlow,465,135,1
-15,The agency in charge of public transit in New York City announced a pilot program using ultraviolet light lamps in… https://t.co/nooioDCHSP,1263329929820766211,139,2020-05-21 04:45:01,SocialFlow,523,149,1
-16,Astronomers believe they have observed the first direct evidence of planet birth in a young star system 520 light-y… https://t.co/ROZElH3ZKx,1263327642259947520,140,2020-05-21 04:35:56,SocialFlow,1285,317,1
-17,A state lawmaker in Illinois has defended his refusal to wear a mask meant to stem the spread of coronavirus after… https://t.co/PjShXSyoPj,1263324901869527041,139,2020-05-21 04:25:02,SocialFlow,569,110,0
-18,"""Given what experts have said about a potential resurgence of the virus and the flu season ... reopening schools th… https://t.co/W7wQpP2xfa",1263321395435634690,140,2020-05-21 04:11:06,SocialFlow,286,75,0
-19,A South Carolina woman who faces assault and battery charges told officials she thought her mail was being stolen b… https://t.co/26RSHK3ADj,1263318892161753089,140,2020-05-21 04:01:09,SocialFlow,201,80,0
-20,The director-general of the World Health Organization on Wednesday said that more cases had been reported to the ag… https://t.co/5SLtd7rLtc,1263316980121157634,140,2020-05-21 03:53:34,SocialFlow,619,370,1
-21,"Protesters staged a mock funeral at Lafayette Square in Washington, DC, to protest the White House coronavirus resp… https://t.co/PFDno6Kicv",1263312375064809479,140,2020-05-21 03:35:16,SocialFlow,768,191,0
-22,Whereas Democrats are moving forward with a cautious approach — setting their convention back by a month and openly… https://t.co/Vp9ZAGL9gD,1263308803967266817,140,2020-05-21 03:21:04,SocialFlow,229,62,0
-23,A coronavirus model that has been cited by the White House is looking to incorporate data on whether Americans wear… https://t.co/9c4ruxARBW,1263308553026232320,140,2020-05-21 03:20:04,SocialFlow,95,26,0
-24,Senate Majority Leader Mitch McConnell has kept fellow Republicans at bay by saying Congress should wait before pas… https://t.co/KWfQDsjrgR,1263308552380317696,140,2020-05-21 03:20:04,SocialFlow,178,57,0
-25,"Coronavirus testing in the United States is disorganized and needs coordination at the national level, infectious d… https://t.co/GkOalDyJu8",1263308291003777030,140,2020-05-21 03:19:02,SocialFlow,1021,449,0
-26,"The University of California is going green.
+“It's a piece of political ab…",1263480263109234694,140,2020-05-21 14:42:23,TweetDeck,0,122,0,Nuetral
+20,"The resolution in Franklin County, which encompasses Ohio's capital of Columbus, references over 100 studies linkin… https://t.co/Tcqtm8DVmE",1263479690012110848,140,2020-05-21 14:40:07,SocialFlow,233,78,0,Nuetral
+21,US airline industry group Airlines for America says 8.5% of flights are more than 70% full. The group maintains tha… https://t.co/5UJNgn1LVq,1263477169302446084,140,2020-05-21 14:30:06,SocialFlow,113,32,1,Positive
+22,"When ""Pac-Man"" debuted 40 years ago, no one could have predicted it would become the most successful arcade game of… https://t.co/2biC9aYXsE",1263474628132868096,140,2020-05-21 14:20:00,Twitter Media Studio,850,275,1,Positive
+23,"Indian, Indonesian, Ethiopian and Nigerian cooks could teach novices a thing or two, since they've had meat-free ea… https://t.co/YxcBeATjwK",1263472145449000967,140,2020-05-21 14:10:08,SocialFlow,669,147,1,Positive
+24,The Louisville Metro Police Department will require all sworn officers to wear body cameras and will change how the… https://t.co/XKFWtdNdpn,1263470239737577472,140,2020-05-21 14:02:33,SocialFlow,457,150,0,Nuetral
+25,"The company said it expects it lost as much as $1.1 billion between February and May, blaming its losses on lockdow… https://t.co/hbtpecGNxg",1263467362122113025,140,2020-05-21 13:51:07,SocialFlow,204,65,1,Positive
+26,"""In my brief, manic campaign to scrub as much of my personal data as possible and wipe my digital slate clean, I le… https://t.co/2n3UNGWBlt",1263464591251714052,140,2020-05-21 13:40:07,SocialFlow,226,78,1,Positive
+27,JUST IN: Actress Lori Loughlin and fashion designer Mossimo Giannulli have agreed to plead guilty to conspiracy cha… https://t.co/97a9eMpkRF,1263461254003392512,140,2020-05-21 13:26:51,SocialFlow,845,241,-1,Negative
+28,RT @cnni: British health care workers are taking part in a global clinical trial to test the effectiveness of anti-malarial drugs chloroqui…,1263458844103016448,140,2020-05-21 13:17:17,TweetDeck,0,92,0,Nuetral
+29,"A shooter at Naval Air Station Corpus Christi in Texas has been ""neutralized,"" the US Navy said in a statement. One… https://t.co/wHr8cvcdif",1263458666184732672,140,2020-05-21 13:16:34,SocialFlow,418,205,0,Nuetral
+30,"Another 2.4 million Americans filed for first-time benefits last week, bringing the total to 38.6 million since mid… https://t.co/IYZua7p8x9",1263454513681379329,140,2020-05-21 13:00:04,Twitter Media Studio,135,68,1,Positive
+31,"JUST IN: Another 2.4 million Americans filed for first-time benefits last week, bringing the total to 38.6 million… https://t.co/ZuYXYhGXUk",1263451988567699457,139,2020-05-21 12:50:02,SocialFlow,462,246,1,Positive
+32,This family discovered two bags containing nearly $1 million in cash while on an afternoon drive… https://t.co/dy8mJNIo2i,1263450762262261761,121,2020-05-21 12:45:10,SocialFlow,508,111,1,Positive
+33,"All newborns delivered to women with Covid-19 infections, confirmed or suspected, should be tested, the US Centers… https://t.co/NoCuytC7P6",1263446985723518980,139,2020-05-21 12:30:09,SocialFlow,316,88,1,Positive
+34,"Here's everything you need to know about the coronavirus pandemic today: https://t.co/e0RO4CX9A5
 
-The university system announced this week that it had divested comple… https://t.co/HLBmb2zFzM",1263307545256624130,140,2020-05-21 03:16:04,SocialFlow,865,164,-1
-27,"Struggling farmers and ranchers, many of whom have seen their markets collapse as the coronavirus pandemic upended… https://t.co/4zwfrqdlEV",1263307299214458880,139,2020-05-21 03:15:05,SocialFlow,154,63,1
-28,"""On Tuesday, there was supposed to be an election in Georgia to fill the seat of a retiring state Supreme Court Jus… https://t.co/acbWSEEkku",1263307298677628928,140,2020-05-21 03:15:05,SocialFlow,211,113,0
-29,China's biggest political gathering of the year is finally taking place after a two-month delay. At the top of the… https://t.co/VmIPmVhQH3,1263306551483346944,139,2020-05-21 03:12:07,SocialFlow,128,39,1
-30,The pandemic has revived the classic American tradition of the drive-in as a safe way to stay entertained without p… https://t.co/0C0hRHhL30,1263306548266360832,140,2020-05-21 03:12:06,SocialFlow,245,67,1
-31,NY Gov. Andrew Cuomo calls partisan bickering over “bailing out” blue states around congressional funding bill “dis… https://t.co/ifbX5auYir,1263306268569026561,140,2020-05-21 03:11:00,Twitter Media Studio,662,150,0
-32,"AT&amp;T says it will discontinue use of the marketing terms ""5G Evolution"" and ""5G Evolution, The First Step to 5G,"" a… https://t.co/g0fgcmKHyZ",1263305790779097088,144,2020-05-21 03:09:06,SocialFlow,135,44,1
-33,"Dr. Anthony Fauci, the US' top infectious disease expert, last gave a TV interview on May 4th.
+📩 Sign up to get… https://t.co/X88SeiGESM",1263443197428195328,139,2020-05-21 12:15:06,SocialFlow,133,37,0,Nuetral
+35,"RT @NewDay: Biologist @ErinBromage shares tips on how to celebrate safely this holiday weekend:
 
-Prior to his recent… https://t.co/RhcTMPrx4i",1263305538559004679,140,2020-05-21 03:08:06,SocialFlow,906,337,1
-34,"The coronavirus has set global school enrollment back four decades, as closures and recessions in many countries ha… https://t.co/69pAeMn6gW",1263305537216708608,140,2020-05-21 03:08:05,SocialFlow,112,52,1
-35,President Trump concluded a White House conference call with Hispanic leaders ostensibly focused on the coronavirus… https://t.co/gBsSI7Mci6,1263304765615808517,140,2020-05-21 03:05:01,SocialFlow,197,65,0
-36,"Norma McCorvey, the anonymous plaintiff in the 1973 US Supreme Court case Roe v. Wade, says in a new documentary th… https://t.co/jpty3vmyRU",1263304529400999937,140,2020-05-21 03:04:05,SocialFlow,258,92,1
-37,"Just like the difference between reopening plans in Georgia and Connecticut (the last state to begin the process),… https://t.co/MzuhGRlTqG",1263304280091615245,139,2020-05-21 03:03:06,SocialFlow,158,41,0
-38,"House Democrats are asking for more information about why the Department of Transportation's top watchdog, acting I… https://t.co/VSi4LQvlHx",1263303782961688582,140,2020-05-21 03:01:07,SocialFlow,317,99,1
-39,"""The fact that he is still alive after taking the drug doesn't mean it was the right thing to do,"" says cardiologis… https://t.co/ZcpXFbSt4J",1263303752439623682,140,2020-05-21 03:01:00,Twitter Media Studio,253,69,1
-40,Health officials in Europe and the United States have reported cases of a rare but serious new syndrome affecting c… https://t.co/3rHuQqgVjY,1263301349187506184,140,2020-05-21 02:51:27,SocialFlow,195,86,1
-41,"""I'm really saddened that it's been sidelined this way ... It ought to be leading the response against coronavirus.… https://t.co/xF5a9BSiSi",1263298719044247553,140,2020-05-21 02:41:00,Twitter Media Studio,374,154,1
-42,Charles Barkley says it's not safe for the NCAA to go through with plans to permit Division I football &amp; basketball… https://t.co/cz15SVpUi2,1263298597224759296,144,2020-05-21 02:40:31,Twitter Media Studio,544,157,-1
-43,"HBO Max is releasing the fabled ""Snyder Cut"" of ""Justice League,"" which is director Zack Snyder's alternate version… https://t.co/3ywo250jw3",1263297453744406528,140,2020-05-21 02:35:58,SocialFlow,270,57,1
-44,“It continues to concern me that he’s not listening to these experts. The CDC has survived multiple administrations… https://t.co/x47HYCrn8L,1263296202365374465,140,2020-05-21 02:31:00,Twitter Media Studio,458,142,0
-45,A woman has won a Picasso painting worth $1.1 million (1 million euros) in a fundraising raffle overseen by auction… https://t.co/PDOL8jeXa0,1263295928091492352,140,2020-05-21 02:29:54,SocialFlow,245,42,1
-46,"“My message to Delawareans is, social distancing is working, but now is not the time to let up as we gradually reop… https://t.co/lb9GlcXQqD",1263293685753450496,140,2020-05-21 02:21:00,Twitter Media Studio,245,55,1
-47,"Health officials in at least 3 states have been combining Covid-19 data on diagnostic tests and antibody tests, ske… https://t.co/62geY8HuB5",1263293190389534721,140,2020-05-21 02:19:02,SocialFlow,165,67,-1
-48,An upcoming NASA telescope has been named the Nancy Grace Roman Space Telescope in honor of the agency's first chie… https://t.co/xZSWMbKmBP,1263291431948562440,140,2020-05-21 02:12:02,SocialFlow,293,62,1
-49,Wisconsin state legislators have introduced a new bill aimed at sending absentee ballot applications to all registe… https://t.co/3r5zYmBELq,1263291193917652992,140,2020-05-21 02:11:06,SocialFlow,271,57,1
-50,"“Hope is a good thing, but hope has to be grounded in facts and full information… you got to give people the caveat… https://t.co/kbHUhlmkMs",1263291169217208321,140,2020-05-21 02:11:00,Twitter Media Studio,146,46,1
-51,"The Missouri School Board Association has released a draft of its plan to reopen K-12 schools, including an alterna… https://t.co/aik47yDOah",1263289942261760000,140,2020-05-21 02:06:07,SocialFlow,110,35,0
-52,"Boston College plans to reopen for on-campus classes on August 31 as scheduled, according to an email sent to the B… https://t.co/ROPYIWDZHG",1263288919115870208,140,2020-05-21 02:02:03,SocialFlow,166,47,0
-53,"Dr. William Haseltine has concerns with companies announcing drug trial progress without evidence. ""It's dangerous… https://t.co/cfnvRuHpkt",1263288652765040641,139,2020-05-21 02:01:00,Twitter Media Studio,208,68,-1
-54,The news that President Trump's White House may not be hosting a ceremonial unveiling of former President Obama's W… https://t.co/DTLY6sqy2a,1263288234869755904,140,2020-05-21 01:59:20,SocialFlow,1097,240,1
-55,"RT @AC360: .@andersoncooper: “With today seeing the largest single day increase in global coronavirus, with more than 93,000 Americans now…",1263287468968706049,139,2020-05-21 01:56:18,TweetDeck,0,525,1
-56,Sen. Chuck Schumer says the firing of the State Department IG investigating Secretary of State Mike Pompeo shows th… https://t.co/oWumFVOm69,1263287363846803456,140,2020-05-21 01:55:52,Twitter Media Studio,376,97,0
-57,"RT @OutFrontCNN: For the first time since officials began implementing widespread lockdowns to slow the spread of coronavirus, all 50 state…",1263286439325822976,140,2020-05-21 01:52:12,TweetDeck,0,27,-1
-58,"""We're adding in a layer of about 100 to 150 individuals that are going to be called beach ambassadors. They'll be… https://t.co/vitAhIWnXs",1263286135918297090,139,2020-05-21 01:51:00,Twitter Media Studio,124,37,0
-59,An NFL player claims in a lawsuit filed against United Airlines that flight staff ignored numerous complaints as he… https://t.co/57T6wje6AB,1263285829658705921,140,2020-05-21 01:49:47,SocialFlow,218,64,0
-60,"RT @TheLeadCNN: “The whole reason we’re having this conversation is because of what you said about the CDC on Sunday,” @jaketapper presses…",1263285595176005632,139,2020-05-21 01:48:51,TweetDeck,0,82,1
-61,A nurse recovering from coronavirus posted stunning pictures of the impact the virus and hospital stay had on his b… https://t.co/Vt7DPDquEN,1263285047806660608,140,2020-05-21 01:46:40,Twitter Media Studio,470,226,1
-62,"Mark Shaffer, a parent suing George Washington University as it went online-only: “Most universities that do strict… https://t.co/n2KJiGTTI2",1263284219016409094,140,2020-05-21 01:43:23,Twitter Media Studio,351,86,1
-63,"“If you start stripping out the middle seat…it doesn't actually give you proper social distancing,” says Sara Nelso… https://t.co/GVIzj5lZgG",1263283325386412032,140,2020-05-21 01:39:50,Twitter Media Studio,150,40,1
-64,"As meat prices increase, here are some easy ways to seek out alternatives.
+- No shared chips, bring your own food
 
-🥗 Designate one day each week for meatl… https://t.co/4dfQzkzlYE",1263282631057301506,140,2020-05-21 01:37:04,SocialFlow,261,88,1
-65,Former Veterans Affairs Sec. David Shulkin on President Trump taking hydroxychloroquine: “I’m concerned about the w… https://t.co/7NVMWmYJ1b,1263282532058935298,140,2020-05-21 01:36:40,Twitter Media Studio,245,66,-1
-66,"Steelers quarterback Ben Roethlisberger got a haircut, defying lockdown orders — and Pennsylvania’s governor wasn’t… https://t.co/eN51R2eBTz",1263282312587776000,140,2020-05-21 01:35:48,Twitter Media Studio,105,32,0
-67,"""Data is one thing, but behavior impacts that data so closely... so far the folks have really taken this seriously.… https://t.co/fDmi42QqwC",1263282222477406208,140,2020-05-21 01:35:27,Twitter Media Studio,88,23,-1
-68,"RT @CNNnewsroom: .@SenatorMenendez is part of a bipartisan push for more funding to states via the SMART Act.
+-…",1263442869764919296,139,2020-05-21 12:13:48,TweetDeck,0,43,1,Positive
+36,"In less than 12 hours, about 11,000 people evacuated Midland, Michigan, and its surrounding areas after two dams fa… https://t.co/bSxEYEOTje",1263439430406324224,140,2020-05-21 12:00:08,SocialFlow,234,102,-1,Negative
+37,This Tokyo pub has a machine that sprays customers with disinfectant as they enter https://t.co/9MObCX39mA https://t.co/9NuitnD2Nc,1263435640206696448,130,2020-05-21 11:45:04,SocialFlow,729,167,0,Nuetral
+38,"Disney Springs — Walt Disney World Resort's shopping, dining and entertainment complex — has started a phased reope… https://t.co/6BF1MJHK6J",1263431873889476612,140,2020-05-21 11:30:06,SocialFlow,257,58,-1,Negative
+39,"As productions began to shutter in the second week of March, the Food Network was quick to realize the need for pro… https://t.co/7hMUEp5eUO",1263428092200202243,140,2020-05-21 11:15:05,SocialFlow,310,54,1,Positive
+40,"More than 5 million cases of Covid-19 have now been recorded globally, according to data compiled by Johns Hopkins… https://t.co/ANSr58i7wO",1263424351136886786,139,2020-05-21 11:00:13,SocialFlow,210,88,1,Positive
+41,"South Korean football team FC Seoul has said it has been handed a $81,300 fine after being accused of placing sex d… https://t.co/xhoxAn13W2",1263420558596886529,140,2020-05-21 10:45:09,SocialFlow,384,112,1,Positive
+42,"The coronavirus recession will cause Trump to suffer a ""historic defeat"" in November, a national election model rel… https://t.co/oufPb1bfZA",1263418699798794242,140,2020-05-21 10:37:45,SocialFlow,1839,425,0,Nuetral
+43,"Virginia, Texas, Georgia, and Vermont say they've been adding two numbers — viral test results and antibody test re… https://t.co/fA8eRq0Pha",1263414243996708864,140,2020-05-21 10:20:03,SocialFlow,164,67,0,Nuetral
+44,A man in Singapore was sentenced to death for drug trafficking last week via a Zoom call as the country's courts ho… https://t.co/Nrck6NqKhT,1263408968774365185,140,2020-05-21 09:59:05,SocialFlow,172,56,0,Nuetral
+45,A man in Singapore was sentenced to death for drug trafficking last week via a Zoom call as the country's courts ho… https://t.co/c8cfdMpgZt,1263408669674352640,140,2020-05-21 09:57:54,SocialFlow,225,55,0,Nuetral
+46,"Two days after the Yellowstone National Park partially reopened following coronavirus restrictions, a woman was inj… https://t.co/1nkN3qB8RG",1263400402302746625,140,2020-05-21 09:25:03,SocialFlow,342,80,-1,Negative
+47,Here's how Covid-19 could change the way we fly https://t.co/0ckU5hcJcl https://t.co/cHFEWWvZ0b,1263397916900818944,95,2020-05-21 09:15:10,SocialFlow,322,103,1,Positive
+48,A suspect is in custody after three people were shot Wednesday night at the Westgate Entertainment District in Glen… https://t.co/GoBo0Vw5yP,1263391624941502465,140,2020-05-21 08:50:10,SocialFlow,206,73,0,Nuetral
+49,New Zealand's Jacinda Ardern has floated the idea of a four-day working week to help the economy in the wake of the… https://t.co/wHKyswmG62,1263387044480458753,140,2020-05-21 08:31:58,SocialFlow,2423,401,1,Positive
+50,"""It was as if a tsunami overwhelmed us, especially the oldest people.""
 
-""This isn’t a red or blue is…",1263282043493834753,140,2020-05-21 01:34:44,TweetDeck,0,41,1
-69,The US Census Bureau has released the first results from its new “pulse survey” in response to the coronavirus pand… https://t.co/XhOOJcW2mY,1263279770172829696,140,2020-05-21 01:25:42,SocialFlow,175,80,1
-70,"This man thought his pet donkey would not remember him after he had been under quarantine, but the beloved animal g… https://t.co/j2GKFiuIip",1263277822900146176,140,2020-05-21 01:17:58,SocialFlow,2448,446,1
-71,Asian Americans in NYC's Chinatown say the crisis has hit their community especially hard. One community leader say… https://t.co/R1ocabruq2,1263275332209184768,140,2020-05-21 01:08:04,SocialFlow,153,40,-1
-72,"Phase two of Connecticut’s reopening is slated for June 20, Gov. Ned Lamont says.
+A whole generation was overwhelmed by Covid… https://t.co/7FVwBb1KJE",1263379934560628736,140,2020-05-21 08:03:43,SocialFlow,239,91,1,Positive
+51,"Thousands of people have been left homeless in the wake of Cyclone Amphan, which slammed into India's eastern coast… https://t.co/vdjDcTs9Bj",1263376492660219905,140,2020-05-21 07:50:02,SocialFlow,206,81,0,Nuetral
+52,"At least 5,000,038 cases of Covid-19 have now been recorded globally, according to data compiled by Johns Hopkins U… https://t.co/wHggId5GZi",1263370217209593856,140,2020-05-21 07:25:06,SocialFlow,337,136,-1,Negative
+53,The receptors that let the coronavirus into our cells appear to be less common in children's noses -- which may be… https://t.co/Rjb4CTWAKw,1263366445167194112,139,2020-05-21 07:10:07,SocialFlow,409,187,-1,Negative
+54,A President who ought to be unifying the country seems to be using his office to indulge his own need for attention… https://t.co/Nfn174QFnD,1263362669500866562,140,2020-05-21 06:55:07,SocialFlow,1527,374,1,Positive
+55,Former Vice President Joe Biden and the Democratic National Committee came close to matching the fundraising perfor… https://t.co/fDcDzQtqwD,1263358888654618624,140,2020-05-21 06:40:05,SocialFlow,182,67,0,Nuetral
+56,A suspect is in custody after three people were shot Wednesday night at the Westgate Entertainment District in Glen… https://t.co/6WpHUBCvIj,1263357920131125248,140,2020-05-21 06:36:14,SocialFlow,278,136,0,Nuetral
+57,TikTok's hiring of Disney veteran Kevin Mayer may not be enough to win over the growing number of US lawmakers who… https://t.co/ZpU156YLfd,1263355102611550208,139,2020-05-21 06:25:03,SocialFlow,297,75,1,Positive
+58,"""My dream is to meet every kid in the entire world and give them art."" This girl has sent over 1,500 children in ho… https://t.co/rs12xrPoVW",1263351365792825344,140,2020-05-21 06:10:12,SocialFlow,4981,811,0,Nuetral
+59,Federal regulators have warned for more than 20 years of inadequate spillways at a Michigan dam that was breached T… https://t.co/CyTueYQGvo,1263349042576318464,140,2020-05-21 06:00:58,SocialFlow,274,114,1,Positive
+60,"The USS Theodore Roosevelt has returned to sea, after being docked in Guam for weeks due to a coronavirus outbreak… https://t.co/P33sI92Szq",1263346292509609984,139,2020-05-21 05:50:02,SocialFlow,245,65,-1,Negative
+61,"The United States recorded 23,285 new cases of coronavirus and 1,518 related deaths on Wednesday, according to John… https://t.co/6ocdnN1EXd",1263342539949715456,140,2020-05-21 05:35:07,SocialFlow,450,230,1,Positive
+62,"If the United States had implemented social distancing policies just a week sooner, it could have prevented more th… https://t.co/gcoNaSHxw5",1263338740149338114,140,2020-05-21 05:20:02,SocialFlow,9178,3390,1,Positive
+63,"North Carolina Gov. Roy Cooper said dine-in eating, hair and nail salons, barbershops, churches and pools will be o… https://t.co/5LpchA12SZ",1263335407401476096,140,2020-05-21 05:06:47,SocialFlow,262,88,0,Nuetral
+64,Donald Trump in April 2009 said the Obama administration was handling the ​early days of the 2009-2010 H1N1 outbrea… https://t.co/k9MqrrIX7G,1263333101842956288,140,2020-05-21 04:57:37,SocialFlow,631,197,1,Positive
+65,The agency in charge of public transit in New York City announced a pilot program using ultraviolet light lamps in… https://t.co/nooioDCHSP,1263329929820766211,139,2020-05-21 04:45:01,SocialFlow,638,178,1,Positive
+66,Astronomers believe they have observed the first direct evidence of planet birth in a young star system 520 light-y… https://t.co/ROZElH3ZKx,1263327642259947520,140,2020-05-21 04:35:56,SocialFlow,1742,401,1,Positive
+67,A state lawmaker in Illinois has defended his refusal to wear a mask meant to stem the spread of coronavirus after… https://t.co/PjShXSyoPj,1263324901869527041,139,2020-05-21 04:25:02,SocialFlow,715,137,0,Nuetral
+68,"""Given what experts have said about a potential resurgence of the virus and the flu season ... reopening schools th… https://t.co/W7wQpP2xfa",1263321395435634690,140,2020-05-21 04:11:06,SocialFlow,316,84,0,Nuetral
+69,A South Carolina woman who faces assault and battery charges told officials she thought her mail was being stolen b… https://t.co/26RSHK3ADj,1263318892161753089,140,2020-05-21 04:01:09,SocialFlow,237,91,0,Nuetral
+70,The director-general of the World Health Organization on Wednesday said that more cases had been reported to the ag… https://t.co/5SLtd7rLtc,1263316980121157634,140,2020-05-21 03:53:34,SocialFlow,741,435,1,Positive
+71,"Protesters staged a mock funeral at Lafayette Square in Washington, DC, to protest the White House coronavirus resp… https://t.co/PFDno6Kicv",1263312375064809479,140,2020-05-21 03:35:16,SocialFlow,869,206,0,Nuetral
+72,Whereas Democrats are moving forward with a cautious approach — setting their convention back by a month and openly… https://t.co/Vp9ZAGL9gD,1263308803967266817,140,2020-05-21 03:21:04,SocialFlow,248,70,0,Nuetral
+73,A coronavirus model that has been cited by the White House is looking to incorporate data on whether Americans wear… https://t.co/9c4ruxARBW,1263308553026232320,140,2020-05-21 03:20:04,SocialFlow,106,30,0,Nuetral
+74,Senate Majority Leader Mitch McConnell has kept fellow Republicans at bay by saying Congress should wait before pas… https://t.co/KWfQDsjrgR,1263308552380317696,140,2020-05-21 03:20:04,SocialFlow,200,68,0,Nuetral
+75,"Coronavirus testing in the United States is disorganized and needs coordination at the national level, infectious d… https://t.co/GkOalDyJu8",1263308291003777030,140,2020-05-21 03:19:02,SocialFlow,1444,593,0,Nuetral
+76,"The University of California is going green.
 
-Several indoor facilities, inclu… https://t.co/OVEhj7vBqO",1263272557576441858,140,2020-05-21 00:57:02,SocialFlow,110,32,0
-73,More than half the counties in California are moving further into phase two of the state’s four-phased approach to… https://t.co/0mXNB3Sx9B,1263269160907411458,139,2020-05-21 00:43:33,SocialFlow,190,43,1
-74,"Tesla has dropped a federal lawsuit against Alameda County over health orders due to the pandemic.
+The university system announced this week that it had divested comple… https://t.co/HLBmb2zFzM",1263307545256624130,140,2020-05-21 03:16:04,SocialFlow,1028,182,-1,Negative
+77,"Struggling farmers and ranchers, many of whom have seen their markets collapse as the coronavirus pandemic upended… https://t.co/4zwfrqdlEV",1263307299214458880,139,2020-05-21 03:15:05,SocialFlow,180,79,1,Positive
+78,"""On Tuesday, there was supposed to be an election in Georgia to fill the seat of a retiring state Supreme Court Jus… https://t.co/acbWSEEkku",1263307298677628928,140,2020-05-21 03:15:05,SocialFlow,245,128,0,Nuetral
+79,China's biggest political gathering of the year is finally taking place after a two-month delay. At the top of the… https://t.co/VmIPmVhQH3,1263306551483346944,139,2020-05-21 03:12:07,SocialFlow,141,43,1,Positive
+80,The pandemic has revived the classic American tradition of the drive-in as a safe way to stay entertained without p… https://t.co/0C0hRHhL30,1263306548266360832,140,2020-05-21 03:12:06,SocialFlow,267,71,1,Positive
+81,NY Gov. Andrew Cuomo calls partisan bickering over “bailing out” blue states around congressional funding bill “dis… https://t.co/ifbX5auYir,1263306268569026561,140,2020-05-21 03:11:00,Twitter Media Studio,783,178,0,Nuetral
+82,"AT&amp;T says it will discontinue use of the marketing terms ""5G Evolution"" and ""5G Evolution, The First Step to 5G,"" a… https://t.co/g0fgcmKHyZ",1263305790779097088,144,2020-05-21 03:09:06,SocialFlow,148,47,1,Positive
+83,"Dr. Anthony Fauci, the US' top infectious disease expert, last gave a TV interview on May 4th.
 
-CEO Elon Musk d… https://t.co/JITrsibiN0",1263265798505795584,140,2020-05-21 00:30:11,SocialFlow,191,53,-1
-75,A federal appeals court has temporarily halted a lower court judge's ruling that would have allowed all registered… https://t.co/0zQMqKBSaT,1263262898987696128,139,2020-05-21 00:18:40,SocialFlow,172,99,0
-76,President Trump's former personal attorney Michael Cohen will be released early from prison on Thursday and is expe… https://t.co/uzUA1h8r2t,1263262340272791555,140,2020-05-21 00:16:26,SocialFlow,407,112,1
-77,People and businesses around the world are getting creative in an effort to safely socialize. CNN asked a health ex… https://t.co/RZrKsNvdQW,1263259433083297793,140,2020-05-21 00:04:53,SocialFlow,359,153,1
-78,"United Airlines' new CEO says he hopes to avoid staff cuts, despite the need to significantly reduce labor costs in… https://t.co/BWY2pMPKZK",1263256971886628866,140,2020-05-20 23:55:06,SocialFlow,154,37,1
-79,"Fragments from the Dead Sea Scrolls were stowed away, deemed largely worthless.
+Prior to his recent… https://t.co/RhcTMPrx4i",1263305538559004679,140,2020-05-21 03:08:06,SocialFlow,1267,452,1,Positive
+84,"The coronavirus has set global school enrollment back four decades, as closures and recessions in many countries ha… https://t.co/69pAeMn6gW",1263305537216708608,140,2020-05-21 03:08:05,SocialFlow,133,60,1,Positive
+85,President Trump concluded a White House conference call with Hispanic leaders ostensibly focused on the coronavirus… https://t.co/gBsSI7Mci6,1263304765615808517,140,2020-05-21 03:05:01,SocialFlow,234,77,0,Nuetral
+86,"Norma McCorvey, the anonymous plaintiff in the 1973 US Supreme Court case Roe v. Wade, says in a new documentary th… https://t.co/jpty3vmyRU",1263304529400999937,140,2020-05-21 03:04:05,SocialFlow,280,98,1,Positive
+87,"Just like the difference between reopening plans in Georgia and Connecticut (the last state to begin the process),… https://t.co/MzuhGRlTqG",1263304280091615245,139,2020-05-21 03:03:06,SocialFlow,173,42,0,Nuetral
+88,"House Democrats are asking for more information about why the Department of Transportation's top watchdog, acting I… https://t.co/VSi4LQvlHx",1263303782961688582,140,2020-05-21 03:01:07,SocialFlow,351,108,1,Positive
+89,"""The fact that he is still alive after taking the drug doesn't mean it was the right thing to do,"" says cardiologis… https://t.co/ZcpXFbSt4J",1263303752439623682,140,2020-05-21 03:01:00,Twitter Media Studio,275,71,1,Positive
+90,Health officials in Europe and the United States have reported cases of a rare but serious new syndrome affecting c… https://t.co/3rHuQqgVjY,1263301349187506184,140,2020-05-21 02:51:27,SocialFlow,210,87,1,Positive
+91,"""I'm really saddened that it's been sidelined this way ... It ought to be leading the response against coronavirus.… https://t.co/xF5a9BSiSi",1263298719044247553,140,2020-05-21 02:41:00,Twitter Media Studio,416,182,1,Positive
+92,Charles Barkley says it's not safe for the NCAA to go through with plans to permit Division I football &amp; basketball… https://t.co/cz15SVpUi2,1263298597224759296,144,2020-05-21 02:40:31,Twitter Media Studio,606,179,-1,Negative
+93,"HBO Max is releasing the fabled ""Snyder Cut"" of ""Justice League,"" which is director Zack Snyder's alternate version… https://t.co/3ywo250jw3",1263297453744406528,140,2020-05-21 02:35:58,SocialFlow,296,63,1,Positive
+94,“It continues to concern me that he’s not listening to these experts. The CDC has survived multiple administrations… https://t.co/x47HYCrn8L,1263296202365374465,140,2020-05-21 02:31:00,Twitter Media Studio,508,158,0,Nuetral
+95,A woman has won a Picasso painting worth $1.1 million (1 million euros) in a fundraising raffle overseen by auction… https://t.co/PDOL8jeXa0,1263295928091492352,140,2020-05-21 02:29:54,SocialFlow,270,48,1,Positive
+96,"“My message to Delawareans is, social distancing is working, but now is not the time to let up as we gradually reop… https://t.co/lb9GlcXQqD",1263293685753450496,140,2020-05-21 02:21:00,Twitter Media Studio,281,64,1,Positive
+97,"Health officials in at least 3 states have been combining Covid-19 data on diagnostic tests and antibody tests, ske… https://t.co/62geY8HuB5",1263293190389534721,140,2020-05-21 02:19:02,SocialFlow,175,70,-1,Negative
+98,An upcoming NASA telescope has been named the Nancy Grace Roman Space Telescope in honor of the agency's first chie… https://t.co/xZSWMbKmBP,1263291431948562440,140,2020-05-21 02:12:02,SocialFlow,317,65,1,Positive
+99,Wisconsin state legislators have introduced a new bill aimed at sending absentee ballot applications to all registe… https://t.co/3r5zYmBELq,1263291193917652992,140,2020-05-21 02:11:06,SocialFlow,284,62,1,Positive
+100,"“Hope is a good thing, but hope has to be grounded in facts and full information… you got to give people the caveat… https://t.co/kbHUhlmkMs",1263291169217208321,140,2020-05-21 02:11:00,Twitter Media Studio,156,48,1,Positive
+101,"The Missouri School Board Association has released a draft of its plan to reopen K-12 schools, including an alterna… https://t.co/aik47yDOah",1263289942261760000,140,2020-05-21 02:06:07,SocialFlow,119,38,0,Nuetral
+102,"Boston College plans to reopen for on-campus classes on August 31 as scheduled, according to an email sent to the B… https://t.co/ROPYIWDZHG",1263288919115870208,140,2020-05-21 02:02:03,SocialFlow,176,47,0,Nuetral
+103,"Dr. William Haseltine has concerns with companies announcing drug trial progress without evidence. ""It's dangerous… https://t.co/cfnvRuHpkt",1263288652765040641,139,2020-05-21 02:01:00,Twitter Media Studio,222,69,-1,Negative
+104,The news that President Trump's White House may not be hosting a ceremonial unveiling of former President Obama's W… https://t.co/DTLY6sqy2a,1263288234869755904,140,2020-05-21 01:59:20,SocialFlow,1830,379,1,Positive
+105,"RT @AC360: .@andersoncooper: “With today seeing the largest single day increase in global coronavirus, with more than 93,000 Americans now…",1263287468968706049,139,2020-05-21 01:56:18,TweetDeck,0,742,1,Positive
+106,Sen. Chuck Schumer says the firing of the State Department IG investigating Secretary of State Mike Pompeo shows th… https://t.co/oWumFVOm69,1263287363846803456,140,2020-05-21 01:55:52,Twitter Media Studio,407,100,0,Nuetral
+107,"RT @OutFrontCNN: For the first time since officials began implementing widespread lockdowns to slow the spread of coronavirus, all 50 state…",1263286439325822976,140,2020-05-21 01:52:12,TweetDeck,0,27,-1,Negative
+108,"""We're adding in a layer of about 100 to 150 individuals that are going to be called beach ambassadors. They'll be… https://t.co/vitAhIWnXs",1263286135918297090,139,2020-05-21 01:51:00,Twitter Media Studio,130,38,0,Nuetral
+109,An NFL player claims in a lawsuit filed against United Airlines that flight staff ignored numerous complaints as he… https://t.co/57T6wje6AB,1263285829658705921,140,2020-05-21 01:49:47,SocialFlow,238,65,0,Nuetral
+110,"RT @TheLeadCNN: “The whole reason we’re having this conversation is because of what you said about the CDC on Sunday,” @jaketapper presses…",1263285595176005632,139,2020-05-21 01:48:51,TweetDeck,0,105,1,Positive
+111,A nurse recovering from coronavirus posted stunning pictures of the impact the virus and hospital stay had on his b… https://t.co/Vt7DPDquEN,1263285047806660608,140,2020-05-21 01:46:40,Twitter Media Studio,511,240,1,Positive
+112,"Mark Shaffer, a parent suing George Washington University as it went online-only: “Most universities that do strict… https://t.co/n2KJiGTTI2",1263284219016409094,140,2020-05-21 01:43:23,Twitter Media Studio,377,92,1,Positive
+113,"“If you start stripping out the middle seat…it doesn't actually give you proper social distancing,” says Sara Nelso… https://t.co/GVIzj5lZgG",1263283325386412032,140,2020-05-21 01:39:50,Twitter Media Studio,156,42,1,Positive
+114,"As meat prices increase, here are some easy ways to seek out alternatives.
 
-But researchers have found that 4… https://t.co/mqAnr3zzjm",1263252497348661253,139,2020-05-20 23:37:20,SocialFlow,766,169,-1
-80,"NASA's chief of human spaceflight, Doug Loverro, is departing the space agency after just six months in the role. I… https://t.co/ZUybB9LVbs",1263247864169406465,140,2020-05-20 23:18:55,SocialFlow,151,41,0
-81,"Federal authorities want a rare, ancient artifact returned to Iraq after it was sold to a US craft store for $1.6 m… https://t.co/ukNlUSimrm",1263243298916925441,140,2020-05-20 23:00:47,SocialFlow,285,106,1
-82,"Fans have begged for Warner Bros. to release the infamous ""Snyder Cut"" of ""Justice League"" — an extended version of… https://t.co/8RU2ms4DXy",1263240866791120903,140,2020-05-20 22:51:07,SocialFlow,1399,444,-1
-83,Months after LA County sheriff's deputies were accused of sharing graphic photos from the crash that killed Kobe Br… https://t.co/p9nNTh4MF5,1263237609469489152,140,2020-05-20 22:38:10,SocialFlow,1145,190,-1
-84,"Here's a look at the business stories you need to read today.
+🥗 Designate one day each week for meatl… https://t.co/4dfQzkzlYE",1263282631057301506,140,2020-05-21 01:37:04,SocialFlow,278,91,1,Positive
+115,Former Veterans Affairs Sec. David Shulkin on President Trump taking hydroxychloroquine: “I’m concerned about the w… https://t.co/7NVMWmYJ1b,1263282532058935298,140,2020-05-21 01:36:40,Twitter Media Studio,264,72,-1,Negative
+116,"Steelers quarterback Ben Roethlisberger got a haircut, defying lockdown orders — and Pennsylvania’s governor wasn’t… https://t.co/eN51R2eBTz",1263282312587776000,140,2020-05-21 01:35:48,Twitter Media Studio,112,34,0,Nuetral
+117,"""Data is one thing, but behavior impacts that data so closely... so far the folks have really taken this seriously.… https://t.co/fDmi42QqwC",1263282222477406208,140,2020-05-21 01:35:27,Twitter Media Studio,91,24,-1,Negative
+118,"RT @CNNnewsroom: .@SenatorMenendez is part of a bipartisan push for more funding to states via the SMART Act.
 
-➡️ The latest in the saga of former Nissan chairman… https://t.co/6VVxaTONuC",1263233792577282050,139,2020-05-20 22:23:00,SocialFlow,84,31,1
-85,Illinois Gov. J.B. Pritzker has said restaurants in Illinois can offer outdoor seating to patrons with certain addi… https://t.co/ZXODinwt6d,1263229988276506625,140,2020-05-20 22:07:53,SocialFlow,178,48,1
-86,"On tonight's #TheDailyDC podcast, we go inside ""Team Trump Online,"" the Trump campaign's nightly livestream, and br… https://t.co/cRQKYeTfya",1263225646609768451,140,2020-05-20 21:50:38,SocialFlow,99,25,0
-87,"As part of its $2 trillion coronavirus aid package, the federal government cleared the way for struggling homeowner… https://t.co/phSDNQDRWe",1263224426688065544,140,2020-05-20 21:45:47,SocialFlow,160,59,0
-88,This family discovered two bags containing nearly $1 million in cash while on an afternoon drive… https://t.co/5H40OuhDY6,1263220446171926528,121,2020-05-20 21:29:58,SocialFlow,364,109,1
-89,From pushing conspiracy theories to saying he's taking an unproven and potentially harmful drug to ward off coronav… https://t.co/PMZuANSoSU,1263216610862665729,140,2020-05-20 21:14:44,SocialFlow,620,220,0
-90,"Just days after reopening its American assembly plants, Ford temporarily shut down two separate factories because e… https://t.co/CxH6e8gptG",1263204716932104193,140,2020-05-20 20:27:28,SocialFlow,556,364,-1
-91,"Target, Walmart, Amazon and Home Depot have all reported sales increases during their latest quarters, but said tha… https://t.co/QEj7XCMsez",1263204560950132736,140,2020-05-20 20:26:51,SocialFlow,155,48,1
-92,JUST IN: The Supreme Court has temporarily blocked the release of Mueller grand jury material to the Democratic-led… https://t.co/bcwmCD1xMl,1263204552184135680,140,2020-05-20 20:26:49,SocialFlow,541,195,1
-93,President Trump will likely decide within the next few days whether to host the G7 in person after he publicly rais… https://t.co/7zO8EJ8oJW,1263200721534681094,140,2020-05-20 20:11:35,SocialFlow,168,59,-1
-94,"Witnesses' videos and images show just how much water was unleashed when Michigan's Edenville Dam failed.
+""This isn’t a red or blue is…",1263282043493834753,140,2020-05-21 01:34:44,TweetDeck,0,42,1,Positive
+119,The US Census Bureau has released the first results from its new “pulse survey” in response to the coronavirus pand… https://t.co/XhOOJcW2mY,1263279770172829696,140,2020-05-21 01:25:42,SocialFlow,184,81,1,Positive
+120,"This man thought his pet donkey would not remember him after he had been under quarantine, but the beloved animal g… https://t.co/j2GKFiuIip",1263277822900146176,140,2020-05-21 01:17:58,SocialFlow,2976,520,1,Positive
+121,Asian Americans in NYC's Chinatown say the crisis has hit their community especially hard. One community leader say… https://t.co/R1ocabruq2,1263275332209184768,140,2020-05-21 01:08:04,SocialFlow,160,40,-1,Negative
+122,"Phase two of Connecticut’s reopening is slated for June 20, Gov. Ned Lamont says.
 
-Official… https://t.co/ZtthvIFllX",1263196915166052354,140,2020-05-20 19:56:28,SocialFlow,440,211,-1
-95,"One day after reopening a Chicago assembly plant, Ford has temporarily shut down the factory because two employees… https://t.co/9JZc0PehI0",1263192821097541634,139,2020-05-20 19:40:12,SocialFlow,521,265,-1
-96,Activists are protesting the shortage of affordable housing — a longstanding crisis worsened by the coronavirus pan… https://t.co/oACpvZFiAB,1263187517425233922,140,2020-05-20 19:19:07,SocialFlow,264,111,0
-97,"A Japanese woman known as ""Gamer Grandma"" to her 250,000 YouTube subscribers, started gaming almost 40 years ago.… https://t.co/iZhslWuA87",1263182987467927560,138,2020-05-20 19:01:07,SocialFlow,939,214,0
-98,"It is becoming increasingly evident that hurricanes, typhoons, and tropical cyclones worldwide are becoming stronge… https://t.co/Zh7QpXyuxa",1263180203288821761,140,2020-05-20 18:50:03,SocialFlow,582,241,1
-99,Johnson &amp; Johnson is abandoning a product that it may be most identified with and has been selling for more than 10… https://t.co/ZUK9da5g4b,1263177716473479170,144,2020-05-20 18:40:10,SocialFlow,440,232,1
-100,"""My dream is to meet every kid in the entire world and give them art."" This girl has sent over 1,500 children in ho… https://t.co/Zk19uVVh8a",1263175175513821185,140,2020-05-20 18:30:05,SocialFlow,1608,275,0
-101,"Dr. James ""Charlie"" Mahoney, a doctor who died while on the front line of the fight against coronavirus, had been a… https://t.co/lk0xXTzLry",1263172659136696320,140,2020-05-20 18:20:05,SocialFlow,847,226,0
-102,The fate of CDC director Dr. Robert Redfield is in question https://t.co/sBlrnSrNvT,1263170160887828483,83,2020-05-20 18:10:09,SocialFlow,202,76,0
-103,"CDC sources say the White House is putting politics ahead of science, which is worsening the impacts of the coronav… https://t.co/cXAuEpVnQQ",1263167617294008324,140,2020-05-20 18:00:03,SocialFlow,619,287,0
-104,"Thousands evacuate after dams fail, and Michigan's governor warns that a city of 41,000 people could soon be under… https://t.co/iD6BOxQ7WJ",1263165347919810561,139,2020-05-20 17:51:02,SocialFlow,224,114,-1
-105,"President Trump has tweeted his congratulations to Tiffany Trump, the fourth of his five children, in support of he… https://t.co/yjlq0yqxTr",1263162585370804224,140,2020-05-20 17:40:03,SocialFlow,2979,262,0
-106,"Across the United States, store workers are having to help enforce the rules designed to keep their workplaces oper… https://t.co/bFfS6bmucK",1263160095229214726,140,2020-05-20 17:30:09,SocialFlow,247,88,0
-107,"The Georgia Bureau of Investigation searched the home of two men charged in the death of Ahmaud Arbery, the agency… https://t.co/ig5dudK55N",1263157564327542784,139,2020-05-20 17:20:06,SocialFlow,368,97,0
-108,"Sears has been in trouble for years, but the coronavirus pandemic could be the end. https://t.co/m5RhPsJu85",1263155030472957953,107,2020-05-20 17:10:02,SocialFlow,197,63,-1
-109,Another heir of Walt Disney is publicly expressing disgust with the company his grandfather founded for furloughing… https://t.co/zGuiEIApWX,1263152558190755841,140,2020-05-20 17:00:12,SocialFlow,1567,435,0
-110,The agency in charge of public transit in New York City announced a pilot program using ultraviolet light lamps in… https://t.co/BX6xc209CM,1263150002441986050,139,2020-05-20 16:50:03,SocialFlow,605,181,1
-111,A Senate panel has voted to issue a subpoena as part of the GOP-led investigation into the Ukrainian energy firm th… https://t.co/ueRybKj3OK,1263147490519416832,140,2020-05-20 16:40:04,SocialFlow,225,64,-1
-112,"National unemployment stands at a jaw-dropping 14.7%, but the rate rises to 25.7% for those aged 20-24, according t… https://t.co/ypdTIWpQgO",1263144986192875520,140,2020-05-20 16:30:07,SocialFlow,343,139,-1
-113,"The success of a British production of ""The Tempest"" — performed on video conferencing app Zoom — proves that, desp… https://t.co/ZrGozZA4zt",1263139950360432641,140,2020-05-20 16:10:06,SocialFlow,228,52,1
-114,"With gyms still closed in most US states and many online fitness sites sold out of equipment, finding safe and effe… https://t.co/0gEpqcM5Mb",1263137439792672769,140,2020-05-20 16:00:08,SocialFlow,200,49,1
-115,The singer who doesn't like to show the world her face is giving us a glimpse of her heart https://t.co/3LxsvU3kuH,1263134926989377536,114,2020-05-20 15:50:09,SocialFlow,1107,151,0
-116,"Secretary of State Mike Pompeo defended his push to have his department's inspector general fired, saying he ""shoul… https://t.co/1PsxFrGg8s",1263132405579177984,140,2020-05-20 15:40:08,SocialFlow,165,74,1
-117,"""Former Vice President Joe Biden may be favored in the 2020 presidential election, but this race is far from over,""… https://t.co/PsuGibe2t5",1263129887965052935,140,2020-05-20 15:30:07,SocialFlow,196,58,1
-118,Two Massachusetts men accused of helping to smuggle former Nissan chief executive Carlos Ghosn out of Japan late la… https://t.co/WqDQp8Hxlq,1263127362646020096,140,2020-05-20 15:20:05,SocialFlow,207,100,-1
-119,The body of 39-year-old former WWE star Shad Gaspard has been found on a California beach three days after he went… https://t.co/yx2yP6BbsQ,1263124847934214147,139,2020-05-20 15:10:06,SocialFlow,246,98,1
-120,"The F-35 pilot ""successfully ejected"" and was taken to a hospital on Elgin Air Force Base ""for evaluation and monit… https://t.co/9KQDG8CIGg",1263122378072248321,140,2020-05-20 15:00:17,SocialFlow,232,71,-1
-121,Target's online sales skyrocketed 141% last quarter as the big box chain benefited from Americans shopping in bulk… https://t.co/3ITuUiRXYc,1263119815277006850,139,2020-05-20 14:50:06,SocialFlow,174,43,0
-122,"Matt Lauer had been looking for an opportune time to publish a piece responding to Ronan Farrow's ""Catch &amp; Kill,"" w… https://t.co/bPGA0L9tJR",1263117298300342273,144,2020-05-20 14:40:06,SocialFlow,139,49,0
-123,"Thousands are under evacuation orders in mid-Michigan this morning, a day after two dams failed following heavy rai… https://t.co/MfS4pO3Z3G",1263114784666464257,140,2020-05-20 14:30:06,SocialFlow,203,84,-1
-124,"Almost immediately after special counsel Robert Mueller closed his investigation last year, Attorney General Willia… https://t.co/OAKwTd0op6",1263112253311762432,140,2020-05-20 14:20:03,SocialFlow,270,143,1
-125,Purdue University President Mitch Daniels says some professors will teach behind Plexiglas in the fall https://t.co/2LLP5OPClq,1263109739359207426,126,2020-05-20 14:10:03,SocialFlow,186,71,-1
-126,"US stocks have opened higher, rebounding from the prior day's session. Follow live updates. https://t.co/NvlZ4XZu9m",1263107236940918785,115,2020-05-20 14:00:07,SocialFlow,114,41,1
-127,"The World Bank says the coronavirus pandemic could push as many as 60 million people into extreme poverty, which it… https://t.co/Z9KitXWPUK",1263104721197215744,140,2020-05-20 13:50:07,SocialFlow,448,257,1
-128,"""My dream is to meet every kid in the entire world and give them art."" This girl has sent over 1,500 children in ho… https://t.co/efhIQaBxur",1263102200907210752,140,2020-05-20 13:40:06,SocialFlow,4306,755,0
-129,Hillary Clinton's 2016 bid for the presidency ended in a demoralizing defeat for Democrats. But it could provide Jo… https://t.co/y7h434tAV5,1263099710157488129,140,2020-05-20 13:30:12,SocialFlow,710,118,0
-130,There are several ongoing studies in the US to see if hydroxychloroquine successfully prevents frontline medical wo… https://t.co/R4mZjdJSLo,1263097165989191684,140,2020-05-20 13:20:06,SocialFlow,264,85,1
-131,Cyclone Amphan makes landfall near the border of India and Bangladesh with sustained winds of 160 kph. Follow live… https://t.co/kgSWQlu7re,1263094652405776384,139,2020-05-20 13:10:06,SocialFlow,186,83,1
-132,"Trump's conflicts with federal judges have been frequent and conspicuous. Now, judges are joining the scorning and… https://t.co/9x3JTuautn",1263092171835691008,139,2020-05-20 13:00:15,SocialFlow,185,65,1
-133,Astronomers believe they have observed the first direct evidence of planet birth in a young star system 520 light-y… https://t.co/ZuiwjNi1KY,1263088335779758080,140,2020-05-20 12:45:00,SocialFlow,1245,315,1
-134,"Here's everything you need to know about the coronavirus pandemic today: https://t.co/XqKGFvlZ8t
+Several indoor facilities, inclu… https://t.co/OVEhj7vBqO",1263272557576441858,140,2020-05-21 00:57:02,SocialFlow,117,33,0,Nuetral
+123,More than half the counties in California are moving further into phase two of the state’s four-phased approach to… https://t.co/0mXNB3Sx9B,1263269160907411458,139,2020-05-21 00:43:33,SocialFlow,202,42,1,Positive
+124,"Tesla has dropped a federal lawsuit against Alameda County over health orders due to the pandemic.
 
-📩 Sign up to get… https://t.co/VlVo0txcDc",1263084582506725382,139,2020-05-20 12:30:06,SocialFlow,94,31,0
-135,"CDC sources say the White House is putting politics ahead of science, which is worsening the impacts of the coronav… https://t.co/wDPWyE3CrP",1263080802012860417,140,2020-05-20 12:15:04,SocialFlow,1823,715,0
-136,"How cycling's Team Novo Nordisk turned type 1 diabetes into its ""greatest strength"" https://t.co/CSE6GA1d9H https://t.co/5tTyvJITRu",1263077011901362181,131,2020-05-20 12:00:01,Twitter Media Studio,203,59,1
-137,"For the first time since US officials began implementing lockdowns to slow the spread of Covid-19, all 50 states ar… https://t.co/ppnd2omSBx",1263073253993709570,140,2020-05-20 11:45:05,SocialFlow,288,116,-1
-138,"""The competitiveness was always there, but he knew when to turn it off and when to turn it on."" Michael Jordan's da… https://t.co/M1WtxrlkkV",1263069481439580160,140,2020-05-20 11:30:05,SocialFlow,344,64,0
-139,Dutch authorities believe that a mink may have infected a human with Covid-19 and are instituting mandatory testing… https://t.co/CXlhE1eX6E,1263065705089507328,140,2020-05-20 11:15:05,SocialFlow,287,114,0
-140,"East Coast viewers expecting to see the ""CBS Evening News"" on Tuesday were perhaps puzzled when the broadcast faile… https://t.co/SjC4GSKRt7",1263062684444045317,140,2020-05-20 11:03:05,SocialFlow,111,25,0
-141,Michigan Gov. Gretchen Whitmer declared a state of emergency for Midland County after both the Edenville and Sanfor… https://t.co/HWy0gACPhV,1263061002276519937,140,2020-05-20 10:56:24,SocialFlow,544,257,0
-142,RT @NewDay: The CDC has posted 60 pages of detailed guidelines on how to reopen the US. The guidance was a slightly shorter version of a 68…,1263059798989438976,140,2020-05-20 10:51:37,TweetDeck,0,122,1
-143,Top Republicans on Capitol Hill are pumping the brakes on new coronavirus stimulus spending days after House Democr… https://t.co/2KLyJUihQO,1263055184911007745,140,2020-05-20 10:33:17,SocialFlow,187,86,1
-144,"The kids are bummed. Parents are super-bummed.
+CEO Elon Musk d… https://t.co/JITrsibiN0",1263265798505795584,140,2020-05-21 00:30:11,SocialFlow,201,54,-1,Negative
+125,A federal appeals court has temporarily halted a lower court judge's ruling that would have allowed all registered… https://t.co/0zQMqKBSaT,1263262898987696128,139,2020-05-21 00:18:40,SocialFlow,179,101,0,Nuetral
+126,President Trump's former personal attorney Michael Cohen will be released early from prison on Thursday and is expe… https://t.co/uzUA1h8r2t,1263262340272791555,140,2020-05-21 00:16:26,SocialFlow,421,115,1,Positive
+127,People and businesses around the world are getting creative in an effort to safely socialize. CNN asked a health ex… https://t.co/RZrKsNvdQW,1263259433083297793,140,2020-05-21 00:04:53,SocialFlow,373,159,1,Positive
+128,"United Airlines' new CEO says he hopes to avoid staff cuts, despite the need to significantly reduce labor costs in… https://t.co/BWY2pMPKZK",1263256971886628866,140,2020-05-20 23:55:06,SocialFlow,163,38,1,Positive
+129,"Fragments from the Dead Sea Scrolls were stowed away, deemed largely worthless.
 
-There are still plenty of ideas for salvaging summer camp — most fo… https://t.co/uV6E5tQ2UE",1263053334279323648,140,2020-05-20 10:25:55,SocialFlow,147,32,1
-145,"Bangladesh has evacuated around 2 million people and set up 12,078 cyclone centers, an official has said. 
+But researchers have found that 4… https://t.co/mqAnr3zzjm",1263252497348661253,139,2020-05-20 23:37:20,SocialFlow,843,179,-1,Negative
+130,"NASA's chief of human spaceflight, Doug Loverro, is departing the space agency after just six months in the role. I… https://t.co/ZUybB9LVbs",1263247864169406465,140,2020-05-20 23:18:55,SocialFlow,157,41,0,Nuetral
+131,"Federal authorities want a rare, ancient artifact returned to Iraq after it was sold to a US craft store for $1.6 m… https://t.co/ukNlUSimrm",1263243298916925441,140,2020-05-20 23:00:47,SocialFlow,303,115,1,Positive
+132,"Fans have begged for Warner Bros. to release the infamous ""Snyder Cut"" of ""Justice League"" — an extended version of… https://t.co/8RU2ms4DXy",1263240866791120903,140,2020-05-20 22:51:07,SocialFlow,1562,483,-1,Negative
+133,Months after LA County sheriff's deputies were accused of sharing graphic photos from the crash that killed Kobe Br… https://t.co/p9nNTh4MF5,1263237609469489152,140,2020-05-20 22:38:10,SocialFlow,1210,195,-1,Negative
+134,"Here's a look at the business stories you need to read today.
 
-Cyclone… https://t.co/1vlvjl2toi",1263048833010929664,140,2020-05-20 10:08:02,SocialFlow,265,73,0
-146,"Russia reported 8,764 new cases of coronavirus on Wednesday, bringing the country's total to at least 308,705.
+➡️ The latest in the saga of former Nissan chairman… https://t.co/6VVxaTONuC",1263233792577282050,139,2020-05-20 22:23:00,SocialFlow,91,30,1,Positive
+135,Illinois Gov. J.B. Pritzker has said restaurants in Illinois can offer outdoor seating to patrons with certain addi… https://t.co/ZXODinwt6d,1263229988276506625,140,2020-05-20 22:07:53,SocialFlow,182,46,1,Positive
+136,"On tonight's #TheDailyDC podcast, we go inside ""Team Trump Online,"" the Trump campaign's nightly livestream, and br… https://t.co/cRQKYeTfya",1263225646609768451,140,2020-05-20 21:50:38,SocialFlow,102,24,0,Nuetral
+137,"As part of its $2 trillion coronavirus aid package, the federal government cleared the way for struggling homeowner… https://t.co/phSDNQDRWe",1263224426688065544,140,2020-05-20 21:45:47,SocialFlow,164,59,0,Nuetral
+138,This family discovered two bags containing nearly $1 million in cash while on an afternoon drive… https://t.co/5H40OuhDY6,1263220446171926528,121,2020-05-20 21:29:58,SocialFlow,376,115,1,Positive
+139,From pushing conspiracy theories to saying he's taking an unproven and potentially harmful drug to ward off coronav… https://t.co/PMZuANSoSU,1263216610862665729,140,2020-05-20 21:14:44,SocialFlow,646,223,0,Nuetral
+140,"Just days after reopening its American assembly plants, Ford temporarily shut down two separate factories because e… https://t.co/CxH6e8gptG",1263204716932104193,140,2020-05-20 20:27:28,SocialFlow,717,479,-1,Negative
+141,"Target, Walmart, Amazon and Home Depot have all reported sales increases during their latest quarters, but said tha… https://t.co/QEj7XCMsez",1263204560950132736,140,2020-05-20 20:26:51,SocialFlow,158,48,1,Positive
+142,JUST IN: The Supreme Court has temporarily blocked the release of Mueller grand jury material to the Democratic-led… https://t.co/bcwmCD1xMl,1263204552184135680,140,2020-05-20 20:26:49,SocialFlow,579,202,1,Positive
+143,President Trump will likely decide within the next few days whether to host the G7 in person after he publicly rais… https://t.co/7zO8EJ8oJW,1263200721534681094,140,2020-05-20 20:11:35,SocialFlow,175,61,-1,Negative
+144,"Witnesses' videos and images show just how much water was unleashed when Michigan's Edenville Dam failed.
 
-The… https://t.co/fq6ObyvdcO",1263042806819565569,140,2020-05-20 09:44:06,SocialFlow,266,94,-1
-147,Have you ever walked through a cloud? Maybe driven through a cloud? Fog is actually a cloud — a cloud on the ground… https://t.co/UF4maztcu1,1263040533120811015,140,2020-05-20 09:35:03,SocialFlow,241,46,0
-148,Johnson &amp; Johnson is abandoning a product that it may be most identified with and has been selling for more than 10… https://t.co/05wqQGk2mu,1263039044352606209,144,2020-05-20 09:29:08,SocialFlow,814,376,1
-149,"For the first time since officials began implementing widespread lockdowns to slow the spread of coronavirus, all 5… https://t.co/LBb2gwaQ7s",1263035173907640326,140,2020-05-20 09:13:46,SocialFlow,155,52,-1
-150,"When Italian towns began offering houses for sale for little more than $1, they inspired legions of dreamers to tak… https://t.co/TrPMpLOfP0",1263034240524070912,140,2020-05-20 09:10:03,SocialFlow,290,61,1
-151,"At least 20,260 new coronavirus cases and 1,574 Covid-19-related deaths were reported in the United States on Tuesd… https://t.co/PWEsCKdYiB",1263027951106392064,140,2020-05-20 08:45:04,SocialFlow,330,144,-1
-152,"""What in God's name is he doing?""
+Official… https://t.co/ZtthvIFllX",1263196915166052354,140,2020-05-20 19:56:28,SocialFlow,456,220,-1,Negative
+145,"One day after reopening a Chicago assembly plant, Ford has temporarily shut down the factory because two employees… https://t.co/9JZc0PehI0",1263192821097541634,139,2020-05-20 19:40:12,SocialFlow,554,293,-1,Negative
+146,Activists are protesting the shortage of affordable housing — a longstanding crisis worsened by the coronavirus pan… https://t.co/oACpvZFiAB,1263187517425233922,140,2020-05-20 19:19:07,SocialFlow,279,115,0,Nuetral
+147,"A Japanese woman known as ""Gamer Grandma"" to her 250,000 YouTube subscribers, started gaming almost 40 years ago.… https://t.co/iZhslWuA87",1263182987467927560,138,2020-05-20 19:01:07,SocialFlow,955,218,0,Nuetral
+148,"It is becoming increasingly evident that hurricanes, typhoons, and tropical cyclones worldwide are becoming stronge… https://t.co/Zh7QpXyuxa",1263180203288821761,140,2020-05-20 18:50:03,SocialFlow,613,255,1,Positive
+149,Johnson &amp; Johnson is abandoning a product that it may be most identified with and has been selling for more than 10… https://t.co/ZUK9da5g4b,1263177716473479170,144,2020-05-20 18:40:10,SocialFlow,451,234,1,Positive
+150,"""My dream is to meet every kid in the entire world and give them art."" This girl has sent over 1,500 children in ho… https://t.co/Zk19uVVh8a",1263175175513821185,140,2020-05-20 18:30:05,SocialFlow,1691,285,0,Nuetral
+151,"Dr. James ""Charlie"" Mahoney, a doctor who died while on the front line of the fight against coronavirus, had been a… https://t.co/lk0xXTzLry",1263172659136696320,140,2020-05-20 18:20:05,SocialFlow,870,233,0,Nuetral
+152,The fate of CDC director Dr. Robert Redfield is in question https://t.co/sBlrnSrNvT,1263170160887828483,83,2020-05-20 18:10:09,SocialFlow,207,80,0,Nuetral
+153,"CDC sources say the White House is putting politics ahead of science, which is worsening the impacts of the coronav… https://t.co/cXAuEpVnQQ",1263167617294008324,140,2020-05-20 18:00:03,SocialFlow,637,294,0,Nuetral
+154,"Thousands evacuate after dams fail, and Michigan's governor warns that a city of 41,000 people could soon be under… https://t.co/iD6BOxQ7WJ",1263165347919810561,139,2020-05-20 17:51:02,SocialFlow,224,116,-1,Negative
+155,"President Trump has tweeted his congratulations to Tiffany Trump, the fourth of his five children, in support of he… https://t.co/yjlq0yqxTr",1263162585370804224,140,2020-05-20 17:40:03,SocialFlow,3214,273,0,Nuetral
+156,"Across the United States, store workers are having to help enforce the rules designed to keep their workplaces oper… https://t.co/bFfS6bmucK",1263160095229214726,140,2020-05-20 17:30:09,SocialFlow,245,88,0,Nuetral
+157,"The Georgia Bureau of Investigation searched the home of two men charged in the death of Ahmaud Arbery, the agency… https://t.co/ig5dudK55N",1263157564327542784,139,2020-05-20 17:20:06,SocialFlow,374,98,0,Nuetral
+158,"Sears has been in trouble for years, but the coronavirus pandemic could be the end. https://t.co/m5RhPsJu85",1263155030472957953,107,2020-05-20 17:10:02,SocialFlow,201,65,-1,Negative
+159,Another heir of Walt Disney is publicly expressing disgust with the company his grandfather founded for furloughing… https://t.co/zGuiEIApWX,1263152558190755841,140,2020-05-20 17:00:12,SocialFlow,1642,454,0,Nuetral
+160,The agency in charge of public transit in New York City announced a pilot program using ultraviolet light lamps in… https://t.co/BX6xc209CM,1263150002441986050,139,2020-05-20 16:50:03,SocialFlow,616,185,1,Positive
+161,A Senate panel has voted to issue a subpoena as part of the GOP-led investigation into the Ukrainian energy firm th… https://t.co/ueRybKj3OK,1263147490519416832,140,2020-05-20 16:40:04,SocialFlow,231,66,-1,Negative
+162,"National unemployment stands at a jaw-dropping 14.7%, but the rate rises to 25.7% for those aged 20-24, according t… https://t.co/ypdTIWpQgO",1263144986192875520,140,2020-05-20 16:30:07,SocialFlow,348,141,-1,Negative
+163,"The success of a British production of ""The Tempest"" — performed on video conferencing app Zoom — proves that, desp… https://t.co/ZrGozZA4zt",1263139950360432641,140,2020-05-20 16:10:06,SocialFlow,234,54,1,Positive
+164,"With gyms still closed in most US states and many online fitness sites sold out of equipment, finding safe and effe… https://t.co/0gEpqcM5Mb",1263137439792672769,140,2020-05-20 16:00:08,SocialFlow,203,51,1,Positive
+165,The singer who doesn't like to show the world her face is giving us a glimpse of her heart https://t.co/3LxsvU3kuH,1263134926989377536,114,2020-05-20 15:50:09,SocialFlow,1137,154,0,Nuetral
+166,"Secretary of State Mike Pompeo defended his push to have his department's inspector general fired, saying he ""shoul… https://t.co/1PsxFrGg8s",1263132405579177984,140,2020-05-20 15:40:08,SocialFlow,168,77,1,Positive
+167,"""Former Vice President Joe Biden may be favored in the 2020 presidential election, but this race is far from over,""… https://t.co/PsuGibe2t5",1263129887965052935,140,2020-05-20 15:30:07,SocialFlow,200,63,1,Positive
+168,Two Massachusetts men accused of helping to smuggle former Nissan chief executive Carlos Ghosn out of Japan late la… https://t.co/WqDQp8Hxlq,1263127362646020096,140,2020-05-20 15:20:05,SocialFlow,210,101,-1,Negative
+169,The body of 39-year-old former WWE star Shad Gaspard has been found on a California beach three days after he went… https://t.co/yx2yP6BbsQ,1263124847934214147,139,2020-05-20 15:10:06,SocialFlow,251,100,1,Positive
+170,"The F-35 pilot ""successfully ejected"" and was taken to a hospital on Elgin Air Force Base ""for evaluation and monit… https://t.co/9KQDG8CIGg",1263122378072248321,140,2020-05-20 15:00:17,SocialFlow,235,73,-1,Negative
+171,Target's online sales skyrocketed 141% last quarter as the big box chain benefited from Americans shopping in bulk… https://t.co/3ITuUiRXYc,1263119815277006850,139,2020-05-20 14:50:06,SocialFlow,175,44,0,Nuetral
+172,"Matt Lauer had been looking for an opportune time to publish a piece responding to Ronan Farrow's ""Catch &amp; Kill,"" w… https://t.co/bPGA0L9tJR",1263117298300342273,144,2020-05-20 14:40:06,SocialFlow,140,50,0,Nuetral
+173,"Thousands are under evacuation orders in mid-Michigan this morning, a day after two dams failed following heavy rai… https://t.co/MfS4pO3Z3G",1263114784666464257,140,2020-05-20 14:30:06,SocialFlow,205,85,-1,Negative
+174,"Almost immediately after special counsel Robert Mueller closed his investigation last year, Attorney General Willia… https://t.co/OAKwTd0op6",1263112253311762432,140,2020-05-20 14:20:03,SocialFlow,277,145,1,Positive
+175,Purdue University President Mitch Daniels says some professors will teach behind Plexiglas in the fall https://t.co/2LLP5OPClq,1263109739359207426,126,2020-05-20 14:10:03,SocialFlow,190,73,-1,Negative
+176,"US stocks have opened higher, rebounding from the prior day's session. Follow live updates. https://t.co/NvlZ4XZu9m",1263107236940918785,115,2020-05-20 14:00:07,SocialFlow,116,41,1,Positive
+177,"The World Bank says the coronavirus pandemic could push as many as 60 million people into extreme poverty, which it… https://t.co/Z9KitXWPUK",1263104721197215744,140,2020-05-20 13:50:07,SocialFlow,456,268,1,Positive
+178,"""My dream is to meet every kid in the entire world and give them art."" This girl has sent over 1,500 children in ho… https://t.co/efhIQaBxur",1263102200907210752,140,2020-05-20 13:40:06,SocialFlow,4432,768,0,Nuetral
+179,Hillary Clinton's 2016 bid for the presidency ended in a demoralizing defeat for Democrats. But it could provide Jo… https://t.co/y7h434tAV5,1263099710157488129,140,2020-05-20 13:30:12,SocialFlow,723,121,0,Nuetral
+180,There are several ongoing studies in the US to see if hydroxychloroquine successfully prevents frontline medical wo… https://t.co/R4mZjdJSLo,1263097165989191684,140,2020-05-20 13:20:06,SocialFlow,270,87,1,Positive
+181,Cyclone Amphan makes landfall near the border of India and Bangladesh with sustained winds of 160 kph. Follow live… https://t.co/kgSWQlu7re,1263094652405776384,139,2020-05-20 13:10:06,SocialFlow,190,84,1,Positive
+182,"Trump's conflicts with federal judges have been frequent and conspicuous. Now, judges are joining the scorning and… https://t.co/9x3JTuautn",1263092171835691008,139,2020-05-20 13:00:15,SocialFlow,189,65,1,Positive
+183,Astronomers believe they have observed the first direct evidence of planet birth in a young star system 520 light-y… https://t.co/ZuiwjNi1KY,1263088335779758080,140,2020-05-20 12:45:00,SocialFlow,1266,318,1,Positive
+184,"Here's everything you need to know about the coronavirus pandemic today: https://t.co/XqKGFvlZ8t
 
-Joe Biden lambasted President Donald Trump on Tuesday for taking hydroxychloroqu… https://t.co/tuwzH79pxN",1263024851025043457,140,2020-05-20 08:32:45,SocialFlow,1757,284,0
-153,Law enforcement officials in central Florida have denied accusations of racism after several people were arrested w… https://t.co/4AtymL8V0p,1263023164512239617,140,2020-05-20 08:26:02,SocialFlow,187,73,0
-154,"Cyclone evacuation efforts in India and Bangladesh are being complicated by the coronavirus pandemic, as relief tea… https://t.co/TdsLV5f2zY",1263020648034689024,140,2020-05-20 08:16:02,SocialFlow,434,234,-1
-155,"Aircraft engine maker Rolls-Royce is cutting at least 9,000 jobs because of the collapse in demand for air travel c… https://t.co/X7yQoCk0Q2",1263018136179224577,140,2020-05-20 08:06:04,SocialFlow,225,110,-1
-156,"""Captain Tom"" Moore, the war veteran who raised almost $40 million (£33 million) for the UK's National Health Servi… https://t.co/3anwppLeYE",1263015362775392258,140,2020-05-20 07:55:02,SocialFlow,1321,175,0
-157,"Doctors warned today that inflammation is causing the severe effects of Covid-19 disease in patients, and said redu… https://t.co/A7dlugFIOs",1263014871513403397,140,2020-05-20 07:53:05,SocialFlow,452,137,0
-158,"Dr. James ""Charlie"" Mahoney, a doctor who died while on the front line of the fight against coronavirus, had been a… https://t.co/z9qOk00uLj",1263000286886494208,140,2020-05-20 06:55:08,SocialFlow,3756,659,0
-159,"If you've ever sold an old smartphone or laptop, you probably thought to wipe the hard drive first, to protect your… https://t.co/3LVdf54kHb",1262999779057053696,140,2020-05-20 06:53:07,SocialFlow,273,77,1
-160,"It is becoming increasingly evident that hurricanes, typhoons, and tropical cyclones worldwide are becoming stronge… https://t.co/Yicjx7u4xA",1262997131230617603,140,2020-05-20 06:42:36,SocialFlow,1441,625,1
-161,"Florida and Georgia, two states that were among the first to announce the reopening of businesses and public spaces… https://t.co/BtrNS1rnz1",1262994467990188033,140,2020-05-20 06:32:01,SocialFlow,554,204,1
-162,"Whether you are ready to head out to exercise or prefer to work out at home, @drsanjaygupta shares some tips on how… https://t.co/lzDD2EC9qJ",1262993232427995137,140,2020-05-20 06:27:06,SocialFlow,189,49,1
-163,How are insects so good at finding things several miles away? This team built a video game for flies to find out. https://t.co/9e2jMvaFPg,1262990648627658752,137,2020-05-20 06:16:50,SocialFlow,278,60,1
-164,Michigan Gov. Gretchen Whitmer declared a state of emergency for Midland county after two dams failed in the area. https://t.co/WGQIgsB8bi,1262987685695758337,138,2020-05-20 06:05:04,SocialFlow,440,161,-1
-165,"Facing severe budget crunches of their own, cities want states to give them a larger slice of the coronavirus relie… https://t.co/GjCn5bbcJy",1262983935262408704,140,2020-05-20 05:50:09,SocialFlow,143,31,1
-166,"President Trump is undermining his own government's best practices, taking premature victory laps, and igniting cla… https://t.co/seP36qaDCA",1262981649752604672,140,2020-05-20 05:41:05,SocialFlow,473,140,1
-167,"Some restaurants in Indianapolis will have more room for customers when they reopen.
+📩 Sign up to get… https://t.co/VlVo0txcDc",1263084582506725382,139,2020-05-20 12:30:06,SocialFlow,96,31,0,Nuetral
+185,"CDC sources say the White House is putting politics ahead of science, which is worsening the impacts of the coronav… https://t.co/wDPWyE3CrP",1263080802012860417,140,2020-05-20 12:15:04,SocialFlow,1848,728,0,Nuetral
+186,"How cycling's Team Novo Nordisk turned type 1 diabetes into its ""greatest strength"" https://t.co/CSE6GA1d9H https://t.co/5tTyvJITRu",1263077011901362181,131,2020-05-20 12:00:01,Twitter Media Studio,208,61,1,Positive
+187,"For the first time since US officials began implementing lockdowns to slow the spread of Covid-19, all 50 states ar… https://t.co/ppnd2omSBx",1263073253993709570,140,2020-05-20 11:45:05,SocialFlow,293,116,-1,Negative
+188,"""The competitiveness was always there, but he knew when to turn it off and when to turn it on."" Michael Jordan's da… https://t.co/M1WtxrlkkV",1263069481439580160,140,2020-05-20 11:30:05,SocialFlow,349,68,0,Nuetral
+189,Dutch authorities believe that a mink may have infected a human with Covid-19 and are instituting mandatory testing… https://t.co/CXlhE1eX6E,1263065705089507328,140,2020-05-20 11:15:05,SocialFlow,289,116,0,Nuetral
+190,"East Coast viewers expecting to see the ""CBS Evening News"" on Tuesday were perhaps puzzled when the broadcast faile… https://t.co/SjC4GSKRt7",1263062684444045317,140,2020-05-20 11:03:05,SocialFlow,115,27,0,Nuetral
+191,Michigan Gov. Gretchen Whitmer declared a state of emergency for Midland County after both the Edenville and Sanfor… https://t.co/HWy0gACPhV,1263061002276519937,140,2020-05-20 10:56:24,SocialFlow,549,259,0,Nuetral
+192,RT @NewDay: The CDC has posted 60 pages of detailed guidelines on how to reopen the US. The guidance was a slightly shorter version of a 68…,1263059798989438976,140,2020-05-20 10:51:37,TweetDeck,0,125,1,Positive
+193,Top Republicans on Capitol Hill are pumping the brakes on new coronavirus stimulus spending days after House Democr… https://t.co/2KLyJUihQO,1263055184911007745,140,2020-05-20 10:33:17,SocialFlow,193,89,1,Positive
+194,"The kids are bummed. Parents are super-bummed.
 
-The mayor and city officials… https://t.co/sMnESQlCLn",1262979633559015424,139,2020-05-20 05:33:04,SocialFlow,240,74,1
-168,"The President is not the only Trump to play fast and loose with the reality of the Covid-19 contagion, Peter Bergen… https://t.co/JABCDwlLSr",1262979252049317888,140,2020-05-20 05:31:33,SocialFlow,453,143,1
-169,The first execution in the US since the start of the coronavirus outbreak was carried out in Missouri on Tuesday. 6… https://t.co/EJru4wh76r,1262976856258740225,140,2020-05-20 05:22:02,SocialFlow,232,57,1
-170,The governor of Pennsylvania wants everyone — including the quarterback of the Pittsburgh Steelers — to adhere to g… https://t.co/4zYJrAhVxc,1262974041993904129,140,2020-05-20 05:10:51,SocialFlow,260,50,1
-171,"The Senate has confirmed President Trump's nominee to the Federal Election Commission, restoring policing powers to… https://t.co/wmR5Na6971",1262971578817687552,140,2020-05-20 05:01:03,SocialFlow,120,53,1
-172,"After a one-year absence, the sign for Hyalite Canyon in Custer Gallatin National Forest has been restored — thanks… https://t.co/3ckkMiN5fq",1262970819178831876,140,2020-05-20 04:58:02,SocialFlow,229,36,1
-173,"Many schools have moved graduations online due to Covid-19.
+There are still plenty of ideas for salvaging summer camp — most fo… https://t.co/uV6E5tQ2UE",1263053334279323648,140,2020-05-20 10:25:55,SocialFlow,149,33,1,Positive
+195,"Bangladesh has evacuated around 2 million people and set up 12,078 cyclone centers, an official has said. 
 
-But a Christian high school in Oklahoma held an in-per… https://t.co/9i1CX1XPgw",1262967823472766980,140,2020-05-20 04:46:08,SocialFlow,541,150,1
-174,In defending Secy. of State Mike Pompeo against charges of using his position to get aides to do personal errands f… https://t.co/h2dm0HRV1c,1262967820897452033,140,2020-05-20 04:46:07,SocialFlow,370,141,0
-175,Appointed senators often have a difficult time winning a full term even in the best of circumstances. And this is n… https://t.co/gaEYBiFGZV,1262966561775800322,140,2020-05-20 04:41:07,SocialFlow,281,58,1
-176,"A Japanese woman known as ""Gamer Grandma"" to her 250,000 YouTube subscribers, started gaming almost 40 years ago.… https://t.co/Y38SCmWsa8",1262964043100360708,138,2020-05-20 04:31:07,SocialFlow,1601,372,0
-177,"Brazil has recorded its highest number of coronavirus deaths and cases in one day, according to the country's healt… https://t.co/4Vh2KPgCty",1262963798723432448,140,2020-05-20 04:30:09,SocialFlow,1570,383,0
-178,"Joe Biden lambasted President Trump for taking hydroxychloroquine, saying it's ""totally irresponsible.""
+Cyclone… https://t.co/1vlvjl2toi",1263048833010929664,140,2020-05-20 10:08:02,SocialFlow,267,73,0,Nuetral
+196,"Russia reported 8,764 new cases of coronavirus on Wednesday, bringing the country's total to at least 308,705.
 
-Medical ex… https://t.co/AopGLUdCeF",1262960256491106305,140,2020-05-20 04:16:04,SocialFlow,1107,194,0
-179,A construction company that has been repeatedly touted by President Trump and his allies has been awarded a major b… https://t.co/VBGEUmBUNn,1262960253651628037,140,2020-05-20 04:16:03,SocialFlow,197,111,1
-180,"Watch this robot patrol a park to encourage social distancing. Spot, a four-legged ""dog"" designed by Boston Dynamic… https://t.co/BGEAyafHMi",1262957740726661120,140,2020-05-20 04:06:04,SocialFlow,559,192,1
-181,NASA astronauts Robert Behnken and Douglas Hurley are set to make history later this month as the first crew to fly… https://t.co/8ZdW2cNNSX,1262957247656853507,140,2020-05-20 04:04:07,SocialFlow,347,89,1
-182,A family got the heartbreaking news of their father's death from coronavirus as they were trying to lift his spirit… https://t.co/uHEG32rDEp,1262956488244506631,140,2020-05-20 04:01:06,SocialFlow,577,128,0
-183,Idaho is not typically the sort of place where political disagreement runs rampant. But there's a major fight under… https://t.co/1A72sPxAsP,1262954721570099200,140,2020-05-20 03:54:04,SocialFlow,128,37,1
-184,Chinese leader Xi Jinping made preserving diplomatic ties in Africa a centerpiece of his opening address at the Wor… https://t.co/VXAhFAlgMX,1262952694546915334,140,2020-05-20 03:46:01,SocialFlow,248,85,0
-185,"An Ohio teenager has been missing since Sunday, officials say.
-
-Madison Bell, 18, was last seen when she left home… https://t.co/OkxijS27WC",1262951439892189189,139,2020-05-20 03:41:02,SocialFlow,367,335,-1
-186,"Doctors have warned that inflammation is causing the severe effects of Covid-19 disease in patients, and said reduc… https://t.co/dY2aJQV2HU",1262948930515619841,140,2020-05-20 03:31:04,SocialFlow,409,179,0
-187,"""We're likely to see more attacks on Obama as Trump searches for a strategy to reverse the serious challenges he fa… https://t.co/taeIUD3VUy",1262948925172039680,140,2020-05-20 03:31:02,SocialFlow,798,187,1
-188,The Department of Homeland Security inspector general is undertaking two new investigations into the department's r… https://t.co/Rq11m9DRyZ,1262948177294045187,140,2020-05-20 03:28:04,SocialFlow,341,106,1
-189,Michigan Gov. Gretchen Whitmer declared a state of emergency for one county after two dams failed in the area — fol… https://t.co/7DyyC4xyJI,1262947916848783360,140,2020-05-20 03:27:02,SocialFlow,276,104,-1
-190,President Trump falsely denied the existence of an FDA warning about the use of hydroxychloroquine for coronavirus.… https://t.co/554kh5ncfh,1262945183093657600,140,2020-05-20 03:16:10,SocialFlow,824,347,-1
-191,A Texas federal judge has ruled that voters in the state who are afraid of catching the novel coronavirus can reque… https://t.co/VA2uiOpQfW,1262944153941442560,140,2020-05-20 03:12:05,SocialFlow,938,194,0
-192,Pompeo had answered written questions from the State Department IG's office as part of its probe into the administr… https://t.co/80tXaZmiHo,1262943646967566336,140,2020-05-20 03:10:04,SocialFlow,206,81,0
-193,A batch of 50 ventilators destined for Russia as part of a package of US aid was expected to be ready for shipment… https://t.co/i2LYTBz5wq,1262943141440741380,139,2020-05-20 03:08:03,SocialFlow,177,63,1
-194,The USS Theodore Roosevelt is expected to return to sea this week after spending weeks in port in Guam following a… https://t.co/7IJe7M38Ls,1262941385231081477,139,2020-05-20 03:01:05,SocialFlow,225,64,-1
-195,"Kids who may have multisystem inflammatory syndrome in children, or MIS-C, a troubling complication of Covid-19 inf… https://t.co/4BYDrBTO8O",1262937597875302413,140,2020-05-20 02:46:02,SocialFlow,367,235,0
-196,"RT @CuomoPrimeTime: “President Trump, of course, refuses to wear [a mask] says @chriscuomo. “That’s all you need to know about this Preside…",1262935448067829761,140,2020-05-20 02:37:29,TweetDeck,0,1415,0
-197,"Annie Glenn, a lifelong advocate for those with speech impediments and wife of the late astronaut John Glenn, has d… https://t.co/OIoVUGlWmO",1262935382175309826,140,2020-05-20 02:37:13,Twitter Media Studio,386,95,-1
-198,"Where is the VA secretary? @PaulRieckhoff asks as the VA reports more than 1,000 deaths but omits hundreds who've d… https://t.co/S4pZqhBQyW",1262935077945618433,140,2020-05-20 02:36:01,Twitter Media Studio,286,129,1
-199,"Will there be concerts and festivals this summer?
-
-“No way,” says infectious disease expert Dr. Preeti Malani.… https://t.co/IUV2LBu9P0",1262934638575513601,135,2020-05-20 02:34:16,Twitter Media Studio,396,133,0
+The… https://t.co/fq6ObyvdcO",1263042806819565569,140,2020-05-20 09:44:06,SocialFlow,269,97,-1,Negative
+197,Have you ever walked through a cloud? Maybe driven through a cloud? Fog is actually a cloud — a cloud on the ground… https://t.co/UF4maztcu1,1263040533120811015,140,2020-05-20 09:35:03,SocialFlow,247,49,0,Nuetral
+198,Johnson &amp; Johnson is abandoning a product that it may be most identified with and has been selling for more than 10… https://t.co/05wqQGk2mu,1263039044352606209,144,2020-05-20 09:29:08,SocialFlow,824,381,1,Positive
+199,"For the first time since officials began implementing widespread lockdowns to slow the spread of coronavirus, all 5… https://t.co/LBb2gwaQ7s",1263035173907640326,140,2020-05-20 09:13:46,SocialFlow,156,55,-1,Negative
